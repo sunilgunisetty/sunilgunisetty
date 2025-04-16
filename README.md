@@ -6,7 +6,7 @@ A seasoned software engineer specializing in the development of scalable, high-p
 ## Skills
 
 ### Programming Languages
-Clojure, Clojurescript, Javascript [ NextJS, ReactJS, NodeJS ], Typescript, Go, Python, Ruby, Java, Elixir, Haskell, Standard ML
+Clojure, Clojurescript, Javascript [ NextJS, ReactJS, NodeJS ], Typescript, Go, Python, Ruby, Java, Scala, Elixir, Haskell, Standard ML
 ### Cloud Computing
 AWS [ IAM, EKS, S3, Lambda, API Gateway, Route53, Cognito, Kinesis, Eventbridge, SAM ], Docker, Kubernetes, Terraform
 ### Data Management
